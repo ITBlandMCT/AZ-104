@@ -52,7 +52,7 @@ In this task, you will create an Azure disk resource by using an Azure Resource 
 
 1. On the **Custom deployment** blade, click **Build your own template in the editor**.
 
-1. On the **Edit template** blade, click **Load file** and upload the template file you downloaded in the previous step.
+1. On the **Edit template** blade, click **Load file** and upload the **template.json** file you downloaded in the previous step.
 
 1. Within the editor pane, remove the following lines:
 
